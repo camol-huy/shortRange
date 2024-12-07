@@ -6,7 +6,7 @@
         "@symfony/webpack-encore": "^1.8.2",
         "core-js": "^3.0.0",
         "jquery": "^3.6.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^9.0.0",
         "regenerator-runtime": "^0.13.2",
         "sass-loader": "^9.0.1",
         "webpack-notifier": "^1.6.0"
